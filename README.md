@@ -2,6 +2,6 @@
 <h3> Parameters </h3>
 <h5> No of nodes, default=1000 </h5>
 <h5> Maximum amount of information(100%-sparseness), default = 0.001% </h5>
-<h5> Maximum no of edges = [(nodes<sup>2</sup> * information)/100] </h5>
+<h5> Maximum no of edges = [(nodes<sup>2</sup> * information)/100], default=1000 </h5> 
 <h3> Output </h3>
 <h5> Produces a text file containing the edges, in case of directed the first node(u) points to the next one(v), that is u->v </h5>
