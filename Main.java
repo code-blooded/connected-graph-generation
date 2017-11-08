@@ -1,4 +1,4 @@
-package com.company;
+/* AUTHOR https://github.com/code-blooded */
 
 import java.io.PrintWriter;
 import java.util.ArrayList;
